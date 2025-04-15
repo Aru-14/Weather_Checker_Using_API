@@ -43,7 +43,7 @@ Weather_Checker_Using_API/
 
 1. **Clone this repository**  
    ```bash
-   git clone [https://github.com/your-username/weather-app.git](https://github.com/Aru-14/Weather_Checker_Using_API/)
+   git clone https://github.com/your-username/weather-app.git
    ```
 
 2. **Navigate into the project folder**  
